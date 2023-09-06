@@ -35,3 +35,15 @@ date: 2023-09-03 18:57:10
 
 
 [4. VPS和机场的选择问题](https://github.com/kxswbj/Hardcore-over-the-wall/blob/main/4.%20VPS%E5%92%8C%E6%9C%BA%E5%9C%BA%E7%9A%84%E9%80%89%E6%8B%A9%E9%97%AE%E9%A2%98.md)  
+
+
+[5. 协议分析](https://github.com/kxswbj/Hardcore-over-the-wall/blob/main/5.%20%E5%8D%8F%E8%AE%AE%E5%88%86%E6%9E%90.md)  
+
+
+[6. 翻墙安全问题](https://github.com/kxswbj/Hardcore-over-the-wall/blob/main/6.%20%E7%BF%BB%E5%A2%99%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98.md)  
+
+
+[7. 敏感期的应对方法](https://github.com/kxswbj/Hardcore-over-the-wall/blob/main/7.%20%E6%95%8F%E6%84%9F%E6%9C%9F%E7%9A%84%E5%BA%94%E5%AF%B9%E6%96%B9%E6%B3%95.md)  
+
+
+[8. 内网线路](https://github.com/kxswbj/Hardcore-over-the-wall/blob/main/8.%20%E5%86%85%E7%BD%91%E7%BA%BF%E8%B7%AF.md)  
